@@ -1,0 +1,12 @@
+{
+    "name": "naturalbuild/quote",
+    "require": {
+        "ajaz/random-quotes-generator-php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Saddam Hossain",
+            "email": "saddam.hossain@codeclouds.in"
+        }
+    ]
+}
